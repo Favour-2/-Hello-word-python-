@@ -1,4 +1,4 @@
-git init
+#git init
 git add hello.py
 git commit -m "Add hello world script"
 git branch -M main
